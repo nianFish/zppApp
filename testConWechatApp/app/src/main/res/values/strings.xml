@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Naturo</string>
+    <string name="app_name_act2">UserInfo</string>
+    <string name="userInfo">点击进入UserInfo…</string>
+    <string name="miniProgram">点击进入小程序…</string>
+    <string name="moreFunctions">更多功能敬请期待…</string>
+
+
+</resources>

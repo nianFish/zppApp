@@ -1,0 +1,10 @@
+com/zp/helloworld/UserInfoActivity.java
+ com.zp.helloworld.UserInfoActivity
+com/zp/helloworld/BuildConfig.java
+ com.zp.helloworld.BuildConfig
+com/zp/helloworld/MainActivity.java
+ com.zp.helloworld.MainActivity
+ com.zp.helloworld.MainActivity$1
+ com.zp.helloworld.MainActivity$2
+com/zp/helloworld/WXEntryActivity.java
+ com.zp.helloworld.WXEntryActivity
